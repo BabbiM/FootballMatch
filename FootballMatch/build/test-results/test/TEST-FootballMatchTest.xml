@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FootballMatchTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2021-12-08T16:47:59" hostname="DESKTOP-M1R2NOK" time="0.068">
+  <properties/>
+  <testcase name="setMatchData()" classname="FootballMatchTest" time="0.038"/>
+  <testcase name="setAwayScore()" classname="FootballMatchTest" time="0.002"/>
+  <testcase name="getTotalScore()" classname="FootballMatchTest" time="0.0"/>
+  <testcase name="setHomeScore()" classname="FootballMatchTest" time="0.001"/>
+  <testcase name="setAwayTeam()" classname="FootballMatchTest" time="0.0"/>
+  <testcase name="getAwayTeam()" classname="FootballMatchTest" time="0.002"/>
+  <testcase name="getMatchData()" classname="FootballMatchTest" time="0.002"/>
+  <testcase name="getAwayScore()" classname="FootballMatchTest" time="0.001"/>
+  <testcase name="setHomeTeam()" classname="FootballMatchTest" time="0.001"/>
+  <testcase name="getHomeTeam()" classname="FootballMatchTest" time="0.001"/>
+  <testcase name="getHomeScore()" classname="FootballMatchTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
