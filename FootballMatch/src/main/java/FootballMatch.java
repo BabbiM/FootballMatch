@@ -18,6 +18,11 @@ public class FootballMatch {
         this.totalScore=homeTeamScore + awayTeamScore;
 
     }
+
+    public FootballMatch() {
+
+    }
+
     public String getHomeTeam()
     {
         return homeTeam;
